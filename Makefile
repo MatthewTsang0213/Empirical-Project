@@ -1,13 +1,11 @@
 # Makefile for GDP Growth Drivers Analysis - BEE2041 Final Project
-# Follows Unit 5 workflow recommendations
 
 .PHONY: all clean data eda analysis visuals
 
 all: output/figures/graph4_school.png
 
 # Create necessary directories
-data/clean output/tables output/figures:
-	mkdir -p $@
+data/clean output/tables output/figures: mkdir -p $@
 
 # 1. Load and clean data from raw World Bank files
 data/clean/gdp_panel.csv: src/01_load_and_clean.py data/raw/ | data/clean
