@@ -42,6 +42,12 @@ statsmodels - use for creating a regression model
 
 - Broad Money (% of GDP)
 
+## Procedure
+
+- Download all 8 data files from the directory and save to **the desktop** (do not create a folder to put them into that folder)
+
+- Download the blog.ipynb and save to **the desktop**
+
 ## Contact Detail
 Name: Matthew Tsang
 
