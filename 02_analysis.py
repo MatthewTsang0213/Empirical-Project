@@ -31,6 +31,6 @@ print(summary.to_string(justify = "center"))
 # Run the regression
 model = smf.ols('gdp_growth ~ investment + fdi + school_enrolment + trade + inflation + unemployment + broad_money', data = df).fit()
 
-# Display the results
+# Display the results (output 4)
 print("Table 2: OLS Regression for all Potential Drivers of GDP Growth (2000–2024)")
 print(model.summary())
