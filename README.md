@@ -77,11 +77,11 @@ project/
 
 │   ├── ├── API_FP.CPI.TOTL.ZG_DS2_en_csv_v2_287.csv
 
-│   ├── ├──
+│   ├── ├── API_NE.GDI.TOTL.ZS_DS2_en_csv_v2_698.csv
 
 │   ├── ├──
 
-│   ├── raw/        
+│   ├── clean/        
 
 │   ├── cleaned_data.csv
 
