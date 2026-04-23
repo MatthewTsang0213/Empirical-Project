@@ -42,9 +42,27 @@ statsmodels - use for creating a regression model
 
 - Broad Money (% of GDP)
 
-
-
 ## Contact Detail
 Name: Matthew Tsang
 
 Email: ht527@exeter.ac.uk
+
+## References
+
+World Bank Group (2026). Unemployment, total (% of total labor force) (modeled ILO estimates). *World Bank Group*. https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS
+
+World Bank Group (n.d.). Broad Money (% of GDP). *World Bank Group*. https://data.worldbank.org/indicator/FM.LBL.BMNY.GD.ZS
+
+World Bank Group (2026). School Enrolment, secondary (% gross). *World Bank Group*. https://data.worldbank.org/indicator/SE.SEC.ENRR
+
+World Bank Group (n.d.). Inflation, consumer prices (annual %). *World Bank Group*. https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG
+
+World Bank Group (n.d.). Foreign direct investment, net inflow (% of GDP). *World Bank Group*. https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS
+
+World Bank Group (n.d.). Trade (% of GDP). *World Bank Group*. https://data.worldbank.org/indicator/NE.TRD.GNFS.ZS
+
+World Bank Group (n.d.). GDP growth (annual %). *World Bank Group*. https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG
+
+
+
+
