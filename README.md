@@ -44,7 +44,7 @@ statsmodels - use for creating a regression model
 
 ## Procedure
 
-- Download all 8 data files from the directory and save to **the desktop** (do not create a folder to put them into the folder)
+- Download all 8 data files from the directory and save to **the desktop** **(do not create a folder to put them into the folder)**
 
 - Download the blog.ipynb and save to **the desktop**
 
@@ -81,7 +81,7 @@ project/
 
 │   ├── ├── API_NE.TRD.GNFS.ZS_DS2_en_csv_v2_101.csv
 
-│   ├── ├──
+│   ├── ├── API_NY.GDP.MKTP.KD.ZG_DS2_en_csv_v2_260.csv
 
 │   ├── ├──
 
