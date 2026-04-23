@@ -63,6 +63,7 @@ World Bank Group (n.d.). Trade (% of GDP). *World Bank Group*. https://data.worl
 
 World Bank Group (n.d.). GDP growth (annual %). *World Bank Group*. https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG
 
+World Bank Group (n.d.). Gross capital formation(% of GDP). *World Bank Group*. https://data.worldbank.org/indicator/NE.GDI.TOTL.ZS
 
 
 
