@@ -73,6 +73,10 @@ project/
 
 │   ├── cleaned_data.csv
 
+├── src/
+
+│   ├── 01_clean.py
+
 ## Contact Detail
 Name: Matthew Tsang
 
