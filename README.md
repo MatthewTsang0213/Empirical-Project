@@ -19,3 +19,32 @@ matplotlib - use for creating graphs and plots
 seaborn - use for creating graphs and plots
 
 statsmodels - use for creating a regression model
+
+## Variables Used
+
+**Dependent Variable** 
+
+- GDP growth (%) 
+
+**Independent Variables**
+
+- Investment (% of GDP)
+
+- FDI (% of GDP)
+
+- Trade (% of GDP)
+
+- Inflation (%)
+
+- School Enrolment (%)
+
+- Unemployment (%)
+
+- Broad Money (% of GDP)
+
+
+
+## Contact Detail
+Name: Matthew Tsang
+
+Email: ht527@exeter.ac.uk
