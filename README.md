@@ -44,9 +44,21 @@ statsmodels - use for creating a regression model
 
 ## Procedure
 
-- Download all 8 data files from the directory and save to **the desktop** (do not create a folder to put them into that folder)
+- Download all 8 data files from the directory and save to **the desktop** (do not create a folder to put them into the folder)
 
 - Download the blog.ipynb and save to **the desktop**
+
+- Open blog.ipynb in Jupyter Notebook and run the code
+
+- After finishing the first data cleaning process, you need to save a file called "pre_cleaned_data.csv". You can check the data in that file
+
+- After checking the data, you need to do a few more steps for data cleaning.
+
+- After doing all the data cleaning, you need to save the file on **the desktop** and name it "cleaned_data.csv" (This is the final version of data)
+
+- You need to reopen the "cleaned_data.csv" for the empirical analysis.
+
+- Run all the cells in the blog.ipynb to do the analysis. You will get the 2 tables and 4 graphs  
 
 ## Contact Detail
 Name: Matthew Tsang
