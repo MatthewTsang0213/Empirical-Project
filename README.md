@@ -12,7 +12,7 @@ Beyond the academic purpose, I also want to provide some useful insights to poli
 ## Libraries used
 pandas - use for doing the data manipulation and data cleaning
 
-numpy - use for doing numerical operations
+os - use for handling file paths
 
 matplotlib - use for creating graphs and plots
 
@@ -58,7 +58,20 @@ statsmodels - use for creating a regression model
 
 - You need to reopen the "cleaned_data.csv" for the empirical analysis.
 
-- Run all the cells in the blog.ipynb to do the analysis. You will get the 2 tables and 4 graphs  
+- Run all the cells in the blog.ipynb to do the analysis. You will get the 2 tables and 4 graphs
+
+## Directory Structure
+project/
+
+├── README.md
+
+├── blog.ipynb
+
+├── data/
+
+│   ├── raw/        
+
+│   ├── cleaned_data.csv
 
 ## Contact Detail
 Name: Matthew Tsang
