@@ -99,7 +99,7 @@ project/
 
 │   ├── 02_analysis.py
 
-│   └── 03_figures.py
+│   └── 03_graphs.py
 
 ├── output/
 
