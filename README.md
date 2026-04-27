@@ -46,21 +46,21 @@ statsmodels - use for creating a regression model
 
 - Open the Jupyter Notebook in the Anaconda-Navigator
 
-- Download all 8 data files from the directory and save to **the desktop** **(do not create a folder to put them into a folder)**
+- Download all 8 data files from the directory and save to **your desktop** **(do not create a folder to put them into a folder)**
 
-- Download the blog.ipynb and save to **the desktop**
+- Download the blog.ipynb and save to **your desktop**
 
-- Open blog.ipynb in Jupyter Notebook and run the code
+- Open blog.ipynb in Jupyter Notebook and run the cell
 
-- After finishing the first data cleaning process, you need to save a file called "pre_cleaned_data.csv". You can check the data in that file
+- After running the first data cleaning process, save the dataset as pre_cleaned_data.csv in **your desktop**. (You can check the data in that file)
 
 - After checking the data, you need to do a few more steps for data cleaning.
 
-- After doing all the data cleaning, you need to save the file on **the desktop** and name it "cleaned_data.csv" (This is the final version of data)
+- After doing all the data cleaning, you need to save the file on **your desktop** and name as "cleaned_data.csv" (This is the final version of data)
 
-- You need to reopen the "cleaned_data.csv" for the empirical analysis.
+- Reopen the "cleaned_data.csv" for the empirical analysis.
 
-- Run all the cells in the blog.ipynb to do the analysis. You will get the 2 tables and 4 graphs
+- Run all the cells in the blog.ipynb to do the analysis. You will get 2 tables and 4 graphs
 
 ## Directory Structure
 project/
