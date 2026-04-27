@@ -44,7 +44,9 @@ statsmodels - use for creating a regression model
 
 ## Procedure
 
-- Download all 8 data files from the directory and save to **the desktop** **(do not create a folder to put them into the folder)**
+- Open the Jupyter Notebook in the Anaconda-Navigator
+
+- Download all 8 data files from the directory and save to **the desktop** **(do not create a folder to put them into a folder)**
 
 - Download the blog.ipynb and save to **the desktop**
 
