@@ -69,6 +69,8 @@ project/
 
 ├── blog.ipynb
 
+├── blog link.pdf
+
 ├── data/
 
 │   ├── raw/          
