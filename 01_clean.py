@@ -49,8 +49,8 @@ print("Year range:", df_gdp["year"].min(), "to", df_gdp["year"].max())
 # Load all 8 files
 all_files = [("API_NY.GDP.MKTP.KD.ZG_DS2_en_csv_v2_260.csv", "gdp_growth"), ("API_NE.TRD.GNFS.ZS_DS2_en_csv_v2_101.csv", "trade"),
     ("API_FP.CPI.TOTL.ZG_DS2_en_csv_v2_287.csv", "inflation"), ("API_NE.GDI.TOTL.ZS_DS2_en_csv_v2_698.csv", "investment"),
-    ("API_SE.SEC.ENRR_DS2_en_csv_v2_758.csv", "school_enrolment"), ("API_SL.UEM.TOTL.ZS_DS2_en_csv_v2_36.csv", "unemployment"),("API_BX.KLT.DINV.WD.GD.ZS_DS2_en_csv_v2_13.csv", "fdi"),
-    ("API_FM.LBL.BMNY.GD.ZS_DS2_en_csv_v2_5797.csv", "broad_money")]
+    ("API_SE.SEC.ENRR_DS2_en_csv_v2_758.csv", "school_enrolment"), ("API_SL.UEM.TOTL.ZS_DS2_en_csv_v2_36.csv", "unemployment"),
+    ("API_BX.KLT.DINV.WD.GD.ZS_DS2_en_csv_v2_13.csv", "fdi"),("API_FM.LBL.BMNY.GD.ZS_DS2_en_csv_v2_5797.csv", "broad_money")]
 
 dfs = []
 
