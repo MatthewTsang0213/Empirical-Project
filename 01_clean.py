@@ -64,7 +64,7 @@ for filename, varname in all_files:
     df_temp = df_temp.melt(id_vars = ["country_code", "country"], var_name = "year", value_name = varname)
     
     df_temp["year"] = df_temp["year"].astype(int)
-    df_temp[varname] = pd.to_numeric(df_temp[varname], errors="coerce")
+    df_temp[varname] = pd.to_numeric(df_temp[varname], errors = "coerce")
 
     dfs.append(df_temp)
 
